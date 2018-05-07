@@ -1,0 +1,118 @@
+62328
+reading images in file: 00
+reading images in file: 01
+reading images in file: 02
+reading images in file: 03
+reading images in file: 04
+reading images in file: 05
+reading images in file: 06
+reading images in file: 07
+reading images in file: 08
+reading images in file: 09
+reading images in file: 10
+reading images in file: 11
+reading images in file: 12
+reading images in file: 13
+reading images in file: 14
+reading images in file: 15
+reading images in file: 16
+reading images in file: 17
+reading images in file: 18
+reading images in file: 19
+reading images in file: 20
+reading images in file: 21
+reading images in file: 22
+reading images in file: 23
+reading images in file: 24
+reading images in file: 25
+reading images in file: 26
+reading images in file: 27
+reading images in file: 28
+reading images in file: 29
+reading images in file: 30
+reading images in file: 31
+reading images in file: 32
+reading images in file: 33
+reading images in file: 34
+reading images in file: 35
+reading images in file: 36
+reading images in file: 37
+reading images in file: 38
+reading images in file: 39
+reading images in file: 40
+reading images in file: 41
+reading images in file: 42
+reading images in file: 43
+reading images in file: 44
+reading images in file: 45
+reading images in file: 46
+reading images in file: 47
+reading images in file: 48
+reading images in file: 49
+reading images in file: 50
+reading images in file: 51
+reading images in file: 52
+reading images in file: 53
+reading images in file: 54
+reading images in file: 55
+reading images in file: 56
+reading images in file: 57
+reading images in file: 58
+reading images in file: 59
+reading images in file: 60
+reading images in file: 61
+reading images in file: 62
+reading images in file: 63
+reading images in file: 64
+reading images in file: 65
+reading images in file: 66
+reading images in file: 67
+reading images in file: 68
+reading images in file: 69
+reading images in file: 70
+reading images in file: 71
+reading images in file: 72
+reading images in file: 73
+reading images in file: 74
+reading images in file: 75
+reading images in file: 76
+reading images in file: 77
+reading images in file: 78
+reading images in file: 79
+reading images in file: 80
+reading images in file: 81
+reading images in file: 82
+reading images in file: 83
+reading images in file: 84
+reading images in file: 85
+reading images in file: 86
+reading images in file: 87
+reading images in file: 88
+reading images in file: 89
+reading images in file: 90
+reading images in file: 91
+reading images in file: 92
+reading images in file: 93
+reading images in file: 94
+reading images in file: 95
+reading images in file: 96
+reading images in file: 97
+reading images in file: 98
+reading images in file: 99
+totally processed: 39157 and 39157
+extract from (39157, 2)
+35242 3915
+35242 3915
+10000 100
+Epoch 1 completed out of 10 loss: 6133539545.99
+Epoch 2 completed out of 10 loss: 48572301.0551
+Epoch 3 completed out of 10 loss: 6073947.73264
+Epoch 4 completed out of 10 loss: 1767962.87368
+Epoch 5 completed out of 10 loss: 568874.761767
+Epoch 6 completed out of 10 loss: 304565.617353
+Epoch 7 completed out of 10 loss: 193556.397674
+Epoch 8 completed out of 10 loss: 155384.370317
+Epoch 9 completed out of 10 loss: 146529.664727
+Epoch 10 completed out of 10 loss: 206460.739717
+Accuracy: 0.875512295082
+Cumulative Accuracy: 106.8125
